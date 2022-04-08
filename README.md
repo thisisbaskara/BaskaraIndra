@@ -9,7 +9,6 @@ BaskaraIndra/BaskaraIndra is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaskaraIndra1&theme=Radical)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BaskaraIndra&show_icons=true&theme=radical)
 
