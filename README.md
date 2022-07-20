@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @BaskaraIndra
 - 👀 I’m interested in All About Technology
 - 🌱 I’m currently learning Android developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 BaskaraIndra/BaskaraIndra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
