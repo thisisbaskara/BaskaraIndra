@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Android, cloud, IoT, DevOps**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
