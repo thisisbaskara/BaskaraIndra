@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baskaraindra" alt="baskaraindra" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile development, Cloud computing, IoT, DevOps**
+- 🌱 I’m currently learning **Mobile development, Cloud computing, IoT, DevOps,and Networking**
 
 <p align="left">
 </p>
